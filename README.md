@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I’m a **Computer Science student** based in Lisbon, Portugal, currently wrapping up my Master’s thesis. I’m fascinated by **IoT**, **cloud computing**, and **machine learning**, and I love building things that solve real-world problems. From developing plugins for e-commerce platforms to designing reinforcement learning environments for federated systems, I thrive on creating solutions that make an impact.  
+I’m a **CS student** based in Lisbon, Portugal, currently wrapping up my Master’s thesis. I love the fields of **IoT**, **cloud computing**, and **reinforcement learning**, and I love building things that solve real-world problems. From developing reinforcement learning algorithms to applying them on real world problems, I thrive on creating solutions that make an impact.  
 
 I’m always open to collaborating on exciting tech projects or discussing the latest innovations. Let’s connect and build something awesome together!  
 
@@ -16,7 +16,7 @@ I’m always open to collaborating on exciting tech projects or discussing the l
 
 ### 💻 What I’m Working On:
 - 🧠 Developing multi-agent reinforcement learning solutions for **edge systems**.
-- 📜 Writing about and presenting research at international conferences like **ECML PKDD**.
+- 📜 Writing about and presenting **research**.
 - 🚀 Exploring advanced **machine learning** techniques and **cloud-based solutions**.
 
 ---
