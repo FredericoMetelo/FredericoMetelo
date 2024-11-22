@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I’m a **CS student** based in Lisbon, Portugal, currently wrapping up my Master’s thesis. I love the fields of **IoT**, **cloud computing**, and **reinforcement learning**, and I love building things that solve real-world problems. From developing reinforcement learning algorithms to applying them on real world problems, I thrive on creating solutions that make an impact.  
+I’m a **CS student** based in Lisbon, Portugal, currently wrapping up my Master’s thesis. I love the fields of **IoT**, **cloud computing**, and **reinforcement learning**, and I love building things that solve real-world problems. From developing reinforcement learning algorithms to applying them on real world problems, I enjoy creating solutions that make an impact.  
 
 I’m always open to collaborating on exciting tech projects or discussing the latest innovations. Let’s connect and build something awesome together!  
 
@@ -46,9 +46,7 @@ I’m always open to collaborating on exciting tech projects or discussing the l
 
 ### 🎯 Projects
 - **E-commerce Plugin:** Built a plugin for the **NopCommerce** platform, enabling personalized product recommendations powered by **Microsoft Azure Cognitive Services Personalizer**.
-- **Federated Reinforcement Learning Environment:** Designed a flexible and extensible system for training reinforcement learning agents under federated settings to tackle task offloading challenges in edge systems.
-- **Research Publication:** Co-authored a paper on reinforcement learning environments for edge computing systems, published in **ECML PKDD 2024**.
-
+- **Federated Reinforcement Learning Environment:** Designed a flexible and extensible system for training reinforcement learning agents under federated settings to tackle task offloading challenges in edge systems, published in **ECML PKDD 2024**.
 ---
 
 ### 📊 GitHub Stats
