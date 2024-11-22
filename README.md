@@ -28,8 +28,7 @@ I’m always open to collaborating on exciting tech projects or discussing the l
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
 #### **Frameworks & Libraries**
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -40,7 +39,8 @@ I’m always open to collaborating on exciting tech projects or discussing the l
 #### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)]
+
 
 ---
 
@@ -48,12 +48,6 @@ I’m always open to collaborating on exciting tech projects or discussing the l
 - **E-commerce Plugin:** Built a plugin for the **NopCommerce** platform, enabling personalized product recommendations powered by **Microsoft Azure Cognitive Services Personalizer**.
 - **Federated Reinforcement Learning Environment:** Designed a flexible and extensible system for training reinforcement learning agents under federated settings to tackle task offloading challenges in edge systems.
 - **Research Publication:** Co-authored a paper on reinforcement learning environments for edge computing systems, published in **ECML PKDD 2024**.
-
----
-
-### 📫 How to Reach Me
-- Email: [fc.metelo@campus.fct.unl.pt](mailto:fc.metelo@campus.fct.unl.pt)
-- LinkedIn: [Frederico Metelo](https://linkedin.com/in/frederico-metelo-089992209)
 
 ---
 
